@@ -1,8 +1,8 @@
 # SOFT2041-DUANMAU
 
 -- Login form default username and password
-User: NghiemN
-Password: songlong
+  - User: NghiemN
+  - Password: songlong
 
 ![image](https://user-images.githubusercontent.com/52403567/138551368-3154d654-be64-4225-b20d-175553607338.png)
 
